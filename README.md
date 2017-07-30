@@ -1,2 +1,2 @@
 # My_Projects
-General repository for all my projects and beginning portfolio/
+General repository for all my public projects and beginning portfolio.
